@@ -1,4 +1,7 @@
-（ nothing here now ）
+# Hi, I'm Roku⭐
+
+To learn more about me, visit **[My Universe](https://rokusennyou.github.io/)** ☄️
+
 <!--
 **RokuSennyou/RokuSennyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
