@@ -1,6 +1,13 @@
 # Hi, I'm Roku⭐
 
+## Who am I
+I'm a CS student at NTNU (National Taiwan Normal University).  
+I enjoy backend development, game development, and building small side projects.
+
 To learn more about me, visit **[My Universe](https://rokusennyou.github.io/)** ☄️
+
+## Contact me
+Discord: rokusenn
 
 <!--
 **RokuSennyou/RokuSennyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
