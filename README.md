@@ -8,6 +8,7 @@ To learn more about me, visit **[My Universe](https://rokusennyou.github.io/)** 
 
 ## Contact me
 Discord: rokusenn
+Mail: rokusenn.liao@gmail.com
 
 <!--
 **RokuSennyou/RokuSennyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
