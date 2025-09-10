@@ -7,7 +7,7 @@ I enjoy backend development, game development, and building small side projects.
 To learn more about me, visit **[My Universe](https://rokusennyou.github.io/)** ☄️
 
 ## Contact me
-Discord: rokusenn
+Discord: rokusenn  
 Mail: rokusenn.liao@gmail.com
 
 <!--
