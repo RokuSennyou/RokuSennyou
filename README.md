@@ -6,7 +6,7 @@ I'm a CS student who enjoys backend development, game development, and building 
 To learn more about me, visit **[My Universe](https://rokusennyou.github.io/)** ☄️
 
 ## Contact me
-Discord: rokusenn (Please DM me! Blank friend requests will be ignored.)
+Discord: rokusenn (Please DM me! Blank friend requests will be ignored.)  
 Mail: rokusenn.liao@gmail.com
 
 <!--
